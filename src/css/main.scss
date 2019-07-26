@@ -1,3 +1,4 @@
+@import "./colors.scss";
 #randomInt {
   background-color: $main;
   border: 1px solid black;
@@ -6,7 +7,7 @@
 }
 
 #randomRange {
-  background-color: $secondary;
+  background-color: $main;
   border: 1px solid black;
   color: white;
   padding: 5px;
